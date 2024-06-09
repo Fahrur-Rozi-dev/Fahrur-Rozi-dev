@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 Software Engineer sharing about my journey and learning in tech<br>👨‍🎓now I study in high school<br>🤖 I’m currently learning AI, Machine Learning, Deep Learning, etc.<br>💬 Ask me about your question in my Instagram<br>⚡ Fun fact i like semicolon ;<br>👯 I’m ready to collaborate
+🔭 Software Engineer sharing about my journey and learning in tech<br>👨‍🎓now I study in high school<br>
+🌱 **Always Learning:**
+- Exploring the latest trends and advancements in machine learning and AI.
+- Enhancing my skills in software engineering and data science.<br> <br>
+🤖 I’m currently learning AI, Machine Learning, Deep Learning, etc.<br>💬 Ask me about your question in my Instagram<br>⚡ Fun fact i like semicolon ;<br>👯 I’m ready to collaborate
 
 
 ## 🌐 Socials:
